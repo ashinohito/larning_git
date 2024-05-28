@@ -1,2 +1,2 @@
- # Learning JS Repo
- JavaScript 講義と課題のリポジトリです.
+ # GitHub講義を学んでるよ！
+ Hello world!
